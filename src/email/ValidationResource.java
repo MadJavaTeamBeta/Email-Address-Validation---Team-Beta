@@ -2,7 +2,7 @@ package email;
 
 /**
  * Project: Email Address Validation - Team Beta
- * Class:
+ * Class: ValidationResource
  * Created by Meesh
  * 12/17/15
  */

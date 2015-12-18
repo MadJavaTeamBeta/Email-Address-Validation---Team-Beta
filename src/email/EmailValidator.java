@@ -2,7 +2,7 @@ package email;
 
 /**
  * Project: Email Address Validation - Team Beta
- * Class:
+ * Class: EmailValidator
  * Created by Meesh
  * 12/16/15
  */
@@ -17,7 +17,7 @@ public class EmailValidator {
 
     @GET
     @Produces(MediaType.TEXT_PLAIN)
-    public String sayHello() {
+    public String showInstructions() {
         return "Enter an email address in the url to validate";
     }
 

@@ -1,10 +1,10 @@
 package logger;
 
 /**
- * Project: Definery
+ * Project: Email Address Validation - Team Beta
  * Class: CustomFileAppender
  * Created by Meesh
- * 11/18/15
+ * 12/17/15
  */
 
 import org.apache.log4j.FileAppender;

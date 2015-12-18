@@ -1,0 +1,20 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Email Address Validation - Team Beta:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Email_Address_Validation___Team_Beta_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Email Address Validation - Team Beta/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Email Address Validation - Team Beta" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="jax-rs-jersey-1.12" />
+          <element id="library" level="application_server_libraries" name="Tomcat 8.0.26" />
+          <element id="file-copy" path="$APPLICATION_HOME_DIR$/lib/log4j.jar" />
+          <element id="file-copy" path="$APPLICATION_HOME_DIR$/lib/slf4j-api-1.7.10.jar" />
+          <element id="file-copy" path="$APPLICATION_HOME_DIR$/lib/slf4j-log4j12-1.7.10.jar" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
